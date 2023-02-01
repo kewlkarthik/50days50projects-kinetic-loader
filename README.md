@@ -1,3 +1,3 @@
-# 50days50projects-drag-n-drop
+# 50days50projects-kinetic-loader
 
-Please view the project @
+Please view the project @ https://kinetic-loader-2cb9aa.netlify.app/
